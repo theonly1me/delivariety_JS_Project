@@ -139,6 +139,20 @@
     padding-top: 10px;
   }
 
+  .modal__form {
+    text-align: center;
+    display: block;
+  }
+
+  .modal__form input {
+    margin-right: 160px;
+    margin-bottom: 25px;
+  }
+
+  .call-me {
+    margin: 0;
+  }
+
   .sticky .main-nav {
     margin: 15px;
   }
