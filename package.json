@@ -1,0 +1,15 @@
+{
+  "name": "delivariety",
+  "version": "1.0.0",
+  "description": "DeliVariety Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Atchyut Preetham Pulavarthi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
