@@ -204,7 +204,8 @@ const btnHandlers = function () {
     });
   });
 
-  askQuery.addEventListener("click", async function () {
+  askQuery.addEventListener("click", async function (event) {
+    event.preventDefault();
     await emailjs.send(
       "service_hcarrak",
       "template_9zsluzh",
