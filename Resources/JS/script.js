@@ -221,7 +221,7 @@ const btnHandlers = function () {
       "user_VNsa5bQOZ4xIMhtGBrVbt"
     );
 
-    document.querySelector(".contact-form").childNodes.forEach((ele) => {
+    document.querySelectorAll(".contact-form input").forEach((ele) => {
       ele.value = "";
     });
   });
