@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "emailjs-com": "^2.6.4"
   }
 }
