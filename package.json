@@ -2,7 +2,6 @@
   "name": "delivariety",
   "version": "1.0.0",
   "description": "DeliVariety Website",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
