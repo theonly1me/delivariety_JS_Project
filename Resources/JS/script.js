@@ -1,4 +1,4 @@
-import * as emailjs from "emailjs-com";
+import emailjs from "emailjs-com";
 import regeneratorRuntime from "regenerator-runtime";
 import corejs from "core-js";
 
