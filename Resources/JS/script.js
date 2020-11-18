@@ -224,6 +224,8 @@ const btnHandlers = function () {
     document.querySelectorAll(".contact-form input").forEach((ele) => {
       ele.value = "";
     });
+
+    askQuery.value = "Send query!";
   });
 
   //Modal Handlers
