@@ -101,6 +101,20 @@
   .footer-nav a:visited {
     margin: 5px;
   }
+
+  .modal__form {
+    text-align: center;
+    display: block;
+  }
+
+  .modal__form input {
+    margin-right: 160px;
+    margin-bottom: 25px;
+  }
+
+  .call-me {
+    margin: 0;
+  }
 }
 
 /* small phones to small tablets - 481px to 767px */
@@ -272,5 +286,19 @@
   }
   .contact-form {
     width: 100%;
+  }
+
+  .modal__form {
+    text-align: center;
+    display: block;
+  }
+
+  .modal__form input {
+    margin-right: 160px;
+    margin-bottom: 25px;
+  }
+
+  .call-me {
+    margin: 0;
   }
 }
